@@ -42,4 +42,4 @@ https://theleirby.github.io/homeWorkJS/15_module_React/src/
 
 
 
-https://github.com/Ediii96?tab=repositories
+https://github.com/Ediii96/skillbox_homework_JS
